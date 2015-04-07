@@ -1,0 +1,14 @@
+#main-block {
+  max-width: 600px;
+  margin-left: auto ;
+  margin-right: auto ;
+  text-align: left;
+  line-height: 1.5em;
+  padding: 0 1.5em;
+  border-left: thick double rgb(180,200,190);
+  background-color: rgb(250,250,250);
+}
+
+ul {
+	list-style-image: url(‘/images/leaf_icon.jpg’);
+}
