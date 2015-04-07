@@ -8,7 +8,3 @@
   border-left: thick double rgb(180,200,190);
   background-color: rgb(250,250,250);
 }
-
-ul {
-	list-style-image: url(‘/images/leaf_icon.jpg’);
-}
