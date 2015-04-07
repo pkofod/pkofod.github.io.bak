@@ -4,6 +4,7 @@ Emperical analysis of problems in economics is often called econometrics. Let us
 function arrest(officer, thief)
 	arrest(thief)
 	promote(officer)
+	return 0
 end
 {% endhighlight %}
 
