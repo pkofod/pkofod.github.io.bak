@@ -11,3 +11,9 @@ function arrest(officer, thief)
 	promote(officer)
 end
 {% endhighlight %}
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
