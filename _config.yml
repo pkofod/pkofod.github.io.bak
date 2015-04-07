@@ -1,4 +1,2 @@
-syntax-highlighting:
-  enabled : true
-  css: syntax.css
-highligter: pygments
+highlighter: pygments
+
